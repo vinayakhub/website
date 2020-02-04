@@ -48,7 +48,7 @@ in the `kubectl` command-line interface, passing the `.yaml` file as an argument
 ```shell
 kubectl apply -f https://k8s.io/examples/application/deployment.yaml --record
 ```
-
+aaa
 The output is similar to this:
 
 ```shell
